@@ -1,1 +1,2 @@
 # TSAproject
+The code calculates the trend and seasonality components of monthly sales data using moving averages. It defines functions to compute odd and even moving averages, as well as the seasonal component by analyzing the deviations from the trend. The results are visualized in a three-part plot, displaying the original sales, trend, and seasonality. This analysis helps in understanding sales patterns over time.
